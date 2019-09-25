@@ -1,23 +1,21 @@
 /*
- * @lc app=leetcode id=101 lang=golang
+ * @lc app=leetcode.cn id=101 lang=golang
  *
- * [101] Symmetric Tree
+ * [101] 对称二叉树
  *
- * https://leetcode.com/problems/symmetric-tree/description/
+ * https://leetcode-cn.com/problems/symmetric-tree/description/
  *
  * algorithms
- * Easy (44.47%)
- * Likes:    2652
- * Dislikes: 57
- * Total Accepted:    465.2K
- * Total Submissions: 1M
+ * Easy (48.55%)
+ * Likes:    455
+ * Dislikes: 0
+ * Total Accepted:    57.6K
+ * Total Submissions: 118.6K
  * Testcase Example:  '[1,2,2,3,4,4,3]'
  *
- * Given a binary tree, check whether it is a mirror of itself (ie, symmetric
- * around its center).
+ * 给定一个二叉树，检查它是否是镜像对称的。
  *
- * For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
- *
+ * 例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
  *
  * ⁠   1
  * ⁠  / \
@@ -26,10 +24,7 @@
  * 3  4 4  3
  *
  *
- *
- *
- * But the following [1,2,2,null,3,null,3] is not:
- *
+ * 但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
  *
  * ⁠   1
  * ⁠  / \
@@ -38,10 +33,9 @@
  * ⁠  3    3
  *
  *
+ * 说明:
  *
- *
- * Note:
- * Bonus points if you could solve it both recursively and iteratively.
+ * 如果你可以运用递归和迭代两种方法解决这个问题，会很加分。
  *
  */
 /**
@@ -52,14 +46,6 @@
  *     Right *TreeNode
  * }
  */
-package problem0101
-
-import (
-	"leetcode/kit"
-)
-
-type TreeNode = kit.TreeNode
-
 func isSymmetric(root *TreeNode) bool {
 	if root == nil {
 		return true

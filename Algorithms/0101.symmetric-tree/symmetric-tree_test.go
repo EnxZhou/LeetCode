@@ -37,7 +37,17 @@ func Test_Problem0101(t *testing.T) {
 
 	for _, tc := range tcs {
 		fmt.Printf("~~%v~~\n", tc)
-
+		// printStruct(kit.PreIn2Tree(tc.pre, tc.in))
 		ast.Equal(tc.ans, isSymmetric(kit.PreIn2Tree(tc.pre, tc.in)), "输入:%v", tc)
 	}
+}
+
+func printStruct(root *kit.TreeNode) {
+	if root.Left != nil {
+		printStruct(root.Left)
+	}
+	if root.Right != nil {
+		printStruct(root.Right)
+	}
+	fmt.Println(root.Val)
 }
