@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="66a7c424-1428-4e83-8a5c-ae0f54fbf07c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
+            <state relative-caret-position="900">
               <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding>
                 <element signature="e#21#105#0" expanded="true" />
@@ -27,32 +29,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#21#71#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree_test.go">
+        <entry file="file://$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="54">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
               <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" selection-start-line="9" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -81,6 +80,8 @@
         <option value="$PROJECT_DIR$/Algorithms/0104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go" />
         <option value="$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree_test.go" />
         <option value="$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree.go" />
+        <option value="$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii.go" />
+        <option value="$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii_test.go" />
       </list>
     </option>
   </component>
@@ -95,29 +96,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="0226.invert-binary-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="0437.path-sum-iii" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +135,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,15 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.Test_Problem0104 in leetcode/Algorithms/0104.maximum-depth-of-binary-tree">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Helper/main.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.Test_invertTree in leetcode/Algorithms/0226.invert-binary-tree">
     <configuration name="Benchmark_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree" />
@@ -201,23 +194,28 @@
       <pattern value="^Test_convertBST$" />
       <method v="2" />
     </configuration>
+    <configuration name="Test_invertTree in leetcode/Algorithms/0226.invert-binary-tree" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$/Algorithms/0226.invert-binary-tree" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/Algorithms/0226.invert-binary-tree" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_invertTree$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.Test_invertTree in leetcode/Algorithms/0226.invert-binary-tree" />
         <item itemvalue="Go Test.Test_Problem0104 in leetcode/Algorithms/0104.maximum-depth-of-binary-tree" />
         <item itemvalue="Go Test.Benchmark_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" />
         <item itemvalue="Go Test.Test_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" />
         <item itemvalue="Go Test.Test_Problem0101 in leetcode/Algorithms/0101.symmetric-tree" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_convertBST_in_leetcode_Algorithms_0538_convert-bst-to-greater-tree - 2019.10.13 at 23h 24m 38s.xml">
-      <configuration name="Test_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test_convertBST_in_leetcode_Algorithms_0538_convert-bst-to-greater-tree - 2019.10.13 at 23h 24m 44s.xml">
-      <configuration name="Test_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="Test_convertBST_in_leetcode_Algorithms_0538_convert-bst-to-greater-tree - 2019.10.13 at 23h 26m 09s.xml">
       <configuration name="Test_convertBST in leetcode/Algorithms/0538.convert-bst-to-greater-tree" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -242,6 +240,12 @@
     <history-entry file="Test_Problem0104_in_leetcode_Algorithms_0104_maximum-depth-of-binary-tree - 2019.11.03 at 21h 54m 40s.xml">
       <configuration name="Test_Problem0104 in leetcode/Algorithms/0104.maximum-depth-of-binary-tree" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="Test_invertTree_in_leetcode_Algorithms_0226_invert-binary-tree - 2019.11.04 at 12h 22m 25s.xml">
+      <configuration name="Test_invertTree in leetcode/Algorithms/0226.invert-binary-tree" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_invertTree_in_leetcode_Algorithms_0226_invert-binary-tree - 2019.11.04 at 16h 21m 07s.xml">
+      <configuration name="Test_invertTree in leetcode/Algorithms/0226.invert-binary-tree" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,23 +257,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1868" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="2506" height="1456" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973767" visible="true" weight="0.21736726" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973767" visible="true" weight="0.22240393" />
       <window_info id="Structure" order="1" sideWeight="0.5026233" side_tool="true" weight="0.25745258" />
       <window_info id="Favorites" order="2" sideWeight="0.5026233" side_tool="true" weight="0.25745258" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995925" weight="0.32744282" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995925" visible="true" weight="0.32728648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3981289" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49944875" weight="0.32948583" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49944875" weight="0.32879817" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49889746" weight="0.32948583" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49944875" weight="0.21406086" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49944875" weight="0.21390778" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005513" side_tool="true" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,41 +345,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Go/src/testing/benchmark.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="689" selection-start-line="689" selection-end-line="689" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Go/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="802" selection-start-line="802" selection-end-line="802" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" selection-start-line="9" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/0101.symmetric-tree/101.symmetric-tree.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Go/src/testing/benchmark.go" />
+    <entry file="file://D:/Go/src/runtime/panic.go" />
+    <entry file="file://D:/Go/src/testing/testing.go" />
     <entry file="file://$PROJECT_DIR$/Algorithms/0101.symmetric-tree/symmetric-tree_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -390,24 +362,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree_test.go">
+    <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="900">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#21#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/0104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="54">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/convert-bst-to-greater-tree_test.go">
+    <entry file="file://$PROJECT_DIR$/Algorithms/0101.symmetric-tree/101.symmetric-tree.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="273">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/0538.convert-bst-to-greater-tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding>
             <element signature="e#21#105#0" expanded="true" />
           </folding>
@@ -416,11 +428,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/0226.invert-binary-tree/invert-binary-tree.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#21#71#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/0437.path-sum-iii/path-sum-iii_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
