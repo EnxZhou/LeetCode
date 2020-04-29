@@ -42,7 +42,7 @@ func Test_Problem0114(t *testing.T) {
 		fmt.Printf("~~%v~~\n", tc)
 
 		root := kit.PreIn2Tree(tc.pre, tc.in)
-		flatten(root)
+		flatten1(root)
 		ast.Equal(tc.post, kit.Tree2Postorder(root), "输入:%v", tc)
 	}
 }
